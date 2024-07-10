@@ -1,0 +1,84 @@
+.center_div{
+  margin-top: 8rem;
+  margin-left: 30rem;
+}
+.center_div{
+  width: 25%;
+  height: 60vh;
+  background-color: rgb(165, 183, 228);
+  box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} 
+h1{
+  color: white;
+  background: transparent;
+  font-size: 50px;
+  background-color: #6fadd1;
+  padding: 6px 0 2px 0;
+  margin-bottom: 10px;
+  width: 100%;
+  box-shadow: rgba(105, 78, 78, 0.3);
+  border-radius: 20px;
+} 
+button{
+  min-height: 40px;
+  border-radius: 5%;
+  border-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+  margin-top: 30px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+button:hover {
+  background-color: #22a6b3;
+}
+.btn_div{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} 
+.btn_div button{
+  margin-left: 2px;
+  margin-top: 24px;
+}
+h1{
+  text-align: center;
+}
+
+button{
+  background-color: aquamarine;
+  border-radius: 30px;
+  margin-left: 2rem;
+  height: 23px;
+  color: black;
+  margin-top: 8px;
+
+  margin-left: 2rem;  
+  margin-top: 8px;
+  padding: 20px,80px;
+  background: #7d2ae8;
+  border: 2px solid #fff;
+  outline: none;
+  border-radius: 7px;
+  box-shadow: 0 0 20px #7d2ae8;
+  font-size: 18px;
+  color: #fff;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+button:focus{
+  color: rgb(173, 204, 199);
+  background-color: blue;
+}
+
+body{
+    background-color: rgb(17, 76, 138);
+}  
